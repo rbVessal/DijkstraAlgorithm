@@ -1,0 +1,48 @@
+C:\Users\Chris\Desktop\GraphHomework\GraphHomework\GraphHomework\bin\x86\Debug\Content\tower.xnb
+C:\Users\Chris\Desktop\GraphHomework\GraphHomework\GraphHomework\bin\x86\Debug\GraphHomework.exe
+C:\Users\Chris\Desktop\GraphHomework\GraphHomework\GraphHomework\bin\x86\Debug\GraphHomework.pdb
+C:\Users\Chris\Desktop\GraphHomework\GraphHomework\GraphHomework\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\GraphHomework\GraphHomework\GraphHomework\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chris\Desktop\GraphHomework\GraphHomework\GraphHomework\obj\x86\Debug\GraphHomework.exe
+C:\Users\Chris\Desktop\GraphHomework\GraphHomework\GraphHomework\obj\x86\Debug\GraphHomework.pdb
+C:\Users\Chris\Desktop\GraphHomework\GraphHomework\GraphHomework\bin\x86\Debug\Content\Arial10.xnb
+C:\Users\kgold\Desktop\GSD3\GraphHomeworkIncomplete\GraphHomeworkIncomplete\GraphHomework\GraphHomework\bin\x86\Debug\Content\tower.xnb
+C:\Users\kgold\Desktop\GSD3\GraphHomeworkIncomplete\GraphHomeworkIncomplete\GraphHomework\GraphHomework\bin\x86\Debug\Content\Arial10.xnb
+C:\Users\kgold\Desktop\GSD3\GraphHomeworkIncomplete\GraphHomeworkIncomplete\GraphHomework\GraphHomework\bin\x86\Debug\GraphHomework.exe
+C:\Users\kgold\Desktop\GSD3\GraphHomeworkIncomplete\GraphHomeworkIncomplete\GraphHomework\GraphHomework\bin\x86\Debug\GraphHomework.pdb
+C:\Users\kgold\Desktop\GSD3\GraphHomeworkIncomplete\GraphHomeworkIncomplete\GraphHomework\GraphHomework\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kgold\Desktop\GSD3\GraphHomeworkIncomplete\GraphHomeworkIncomplete\GraphHomework\GraphHomework\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\kgold\Desktop\GSD3\GraphHomeworkIncomplete\GraphHomeworkIncomplete\GraphHomework\GraphHomework\obj\x86\Debug\GraphHomework.exe
+C:\Users\kgold\Desktop\GSD3\GraphHomeworkIncomplete\GraphHomeworkIncomplete\GraphHomework\GraphHomework\obj\x86\Debug\GraphHomework.pdb
+C:\Users\faculty\Desktop\GSD3\HW3\GraphHomeworkIncomplete\GraphHomeworkIncomplete\GraphHomework\GraphHomework\bin\x86\Debug\Content\tower.xnb
+C:\Users\faculty\Desktop\GSD3\HW3\GraphHomeworkIncomplete\GraphHomeworkIncomplete\GraphHomework\GraphHomework\bin\x86\Debug\Content\Arial10.xnb
+C:\Users\faculty\Desktop\GSD3\HW3\GraphHomeworkIncomplete\GraphHomeworkIncomplete\GraphHomework\GraphHomework\bin\x86\Debug\GraphHomework.exe
+C:\Users\faculty\Desktop\GSD3\HW3\GraphHomeworkIncomplete\GraphHomeworkIncomplete\GraphHomework\GraphHomework\bin\x86\Debug\GraphHomework.pdb
+C:\Users\faculty\Desktop\GSD3\HW3\GraphHomeworkIncomplete\GraphHomeworkIncomplete\GraphHomework\GraphHomework\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\faculty\Desktop\GSD3\HW3\GraphHomeworkIncomplete\GraphHomeworkIncomplete\GraphHomework\GraphHomework\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\faculty\Desktop\GSD3\HW3\GraphHomeworkIncomplete\GraphHomeworkIncomplete\GraphHomework\GraphHomework\obj\x86\Debug\GraphHomework.exe
+C:\Users\faculty\Desktop\GSD3\HW3\GraphHomeworkIncomplete\GraphHomeworkIncomplete\GraphHomework\GraphHomework\obj\x86\Debug\GraphHomework.pdb
+G:\RIT Freshman Year\Spring Quarter Classes\GSDIII\Hw\HW#3\Homework 3\GraphHomeworkIncomplete\GraphHomework\GraphHomework\bin\x86\Debug\Content\tower.xnb
+G:\RIT Freshman Year\Spring Quarter Classes\GSDIII\Hw\HW#3\Homework 3\GraphHomeworkIncomplete\GraphHomework\GraphHomework\bin\x86\Debug\Content\Arial10.xnb
+G:\RIT Freshman Year\Spring Quarter Classes\GSDIII\Hw\HW#3\Homework 3\GraphHomeworkIncomplete\GraphHomework\GraphHomework\bin\x86\Debug\GraphHomework.exe
+G:\RIT Freshman Year\Spring Quarter Classes\GSDIII\Hw\HW#3\Homework 3\GraphHomeworkIncomplete\GraphHomework\GraphHomework\bin\x86\Debug\GraphHomework.pdb
+G:\RIT Freshman Year\Spring Quarter Classes\GSDIII\Hw\HW#3\Homework 3\GraphHomeworkIncomplete\GraphHomework\GraphHomework\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\RIT Freshman Year\Spring Quarter Classes\GSDIII\Hw\HW#3\Homework 3\GraphHomeworkIncomplete\GraphHomework\GraphHomework\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\RIT Freshman Year\Spring Quarter Classes\GSDIII\Hw\HW#3\Homework 3\GraphHomeworkIncomplete\GraphHomework\GraphHomework\obj\x86\Debug\GraphHomework.exe
+G:\RIT Freshman Year\Spring Quarter Classes\GSDIII\Hw\HW#3\Homework 3\GraphHomeworkIncomplete\GraphHomework\GraphHomework\obj\x86\Debug\GraphHomework.pdb
+\\banner.main.ad.rit.edu\students\rbv7405\IGMProfile\Desktop\Rebecca_Vessal_HW#3\HW#3\Homework 3\GraphHomeworkIncomplete\GraphHomework\GraphHomework\bin\x86\Debug\Content\tower.xnb
+\\banner.main.ad.rit.edu\students\rbv7405\IGMProfile\Desktop\Rebecca_Vessal_HW#3\HW#3\Homework 3\GraphHomeworkIncomplete\GraphHomework\GraphHomework\bin\x86\Debug\Content\Arial10.xnb
+\\banner.main.ad.rit.edu\students\rbv7405\IGMProfile\Desktop\Rebecca_Vessal_HW#3\HW#3\Homework 3\GraphHomeworkIncomplete\GraphHomework\GraphHomework\bin\x86\Debug\GraphHomework.exe
+\\banner.main.ad.rit.edu\students\rbv7405\IGMProfile\Desktop\Rebecca_Vessal_HW#3\HW#3\Homework 3\GraphHomeworkIncomplete\GraphHomework\GraphHomework\bin\x86\Debug\GraphHomework.pdb
+\\banner.main.ad.rit.edu\students\rbv7405\IGMProfile\Desktop\Rebecca_Vessal_HW#3\HW#3\Homework 3\GraphHomeworkIncomplete\GraphHomework\GraphHomework\obj\x86\Debug\ResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\rbv7405\IGMProfile\Desktop\Rebecca_Vessal_HW#3\HW#3\Homework 3\GraphHomeworkIncomplete\GraphHomework\GraphHomework\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\banner.main.ad.rit.edu\students\rbv7405\IGMProfile\Desktop\Rebecca_Vessal_HW#3\HW#3\Homework 3\GraphHomeworkIncomplete\GraphHomework\GraphHomework\obj\x86\Debug\GraphHomework.exe
+\\banner.main.ad.rit.edu\students\rbv7405\IGMProfile\Desktop\Rebecca_Vessal_HW#3\HW#3\Homework 3\GraphHomeworkIncomplete\GraphHomework\GraphHomework\obj\x86\Debug\GraphHomework.pdb
+D:\portfolioGames\Algorithms\Dijkstra's Algorithm\Dijkstra's Algorithm\GraphHomework\GraphHomework\bin\x86\Debug\Content\tower.xnb
+D:\portfolioGames\Algorithms\Dijkstra's Algorithm\Dijkstra's Algorithm\GraphHomework\GraphHomework\bin\x86\Debug\Content\Arial10.xnb
+D:\portfolioGames\Algorithms\Dijkstra's Algorithm\Dijkstra's Algorithm\GraphHomework\GraphHomework\bin\x86\Debug\GraphHomework.exe
+D:\portfolioGames\Algorithms\Dijkstra's Algorithm\Dijkstra's Algorithm\GraphHomework\GraphHomework\bin\x86\Debug\GraphHomework.pdb
+D:\portfolioGames\Algorithms\Dijkstra's Algorithm\Dijkstra's Algorithm\GraphHomework\GraphHomework\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\portfolioGames\Algorithms\Dijkstra's Algorithm\Dijkstra's Algorithm\GraphHomework\GraphHomework\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\portfolioGames\Algorithms\Dijkstra's Algorithm\Dijkstra's Algorithm\GraphHomework\GraphHomework\obj\x86\Debug\GraphHomework.exe
+D:\portfolioGames\Algorithms\Dijkstra's Algorithm\Dijkstra's Algorithm\GraphHomework\GraphHomework\obj\x86\Debug\GraphHomework.pdb
